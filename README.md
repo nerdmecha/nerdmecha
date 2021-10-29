@@ -16,10 +16,3 @@
 <b><p> <jonghun2014@naver.com> </p></b>
 <b><p> <otaku1999@kakao.com> </p></b>
 <b><p> Discord doubleswan#7467 </p></b>
-
-<h2> Links </h2>
-
-#### [YouTube](https://www.youtube.com/c/nerdmecha)
-#### [Twitch](https://www.twitch.tv/nerdmecha)
-#### [Itch.io](https://nerdmecha.itch.io)
-#### [Ko-fi](https://ko-fi.com/nerdmecha)
