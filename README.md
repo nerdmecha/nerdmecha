@@ -1,16 +1,25 @@
-### Hi there 👋
+<h3 align = "center"> Welcome to My GitHub XD </h1>
 
-<!--
-**nerdmecha/nerdmecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = "center"> 
+  
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nerdmecha)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
-Here are some ideas to get you started:
+<h2> Profile </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b><p> Nickname nerdmecha </p></b>
+<b><p> Location Seoul, Republic of Korea </p></b>
+<b><p> Born in 1999.02.02 </p></b>
+<b><p> Gender Male </p></b>
+<b><p> Email </p></b>
+<b><p> <jonghun2014@naver.com> </p></b>
+<b><p> <otaku1999@kakao.com> </p></b>
+<b><p> Discord doubleswan#7467 </p></b>
+
+<h2> Links </h2>
+
+#### [YouTube](https://www.youtube.com/c/nerdmecha)
+#### [Twitch](https://www.twitch.tv/nerdmecha)
+#### [Itch.io](https://nerdmecha.itch.io)
+#### [Ko-fi](https://ko-fi.com/nerdmecha)
