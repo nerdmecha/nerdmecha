@@ -19,5 +19,5 @@
   
   <b><p> <otaku1999@kakao.com> </p></b>
   
-  <b><p> Discord doubleswan#7467 </p></b>
+  <b><p> Discord nerdmecha#1806 </p></b>
 </div>
