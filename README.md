@@ -15,9 +15,7 @@
   
   <b><p> Email </p></b>
   
-  <b><p> <jonghun2014@naver.com> </p></b>
-  
-  <b><p> <otaku1999@kakao.com> </p></b>
+  <b><p> <nerdmecha@outlook.com> </p></b>
   
   <b><p> Discord nerdmecha#1806 </p></b>
 </div>
