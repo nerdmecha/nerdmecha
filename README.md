@@ -4,6 +4,7 @@
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nerdmecha)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerdmecha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerdmecha&repo=battlecity_fangame)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
@@ -19,10 +20,4 @@
   <b><p><nerdmecha@outlook.com></p></b>
   
   <b><p>Discord nerdmecha#1806</p></b>
-</div>
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerdmecha&repo=battlecity_fangame)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
