@@ -16,6 +16,8 @@
   <b><p>Gender Male</p></b>
   
   <b><p>Email</p></b>
-  
   <b><p><nerdmecha@outlook.com></p></b>
+  
+  <b><p>Discord</p></b>
+  <b><p>nerdmecha#1806</p></b>
 </div>
