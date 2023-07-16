@@ -14,5 +14,5 @@
   <b><p><nerdmecha@outlook.com></p></b>
   
   <b><p>Discord</p></b>
-  <b><p>nerdmecha#1806</p></b>
+  <b><p>nerdmecha</p></b>
 </div>
