@@ -8,6 +8,6 @@
   <b><p>Born in 1999.02.02 Male</p></b>
 
   <!-- Contact -->
-  <b><p>Email <nerdmecha@outlook.com></p></b>
+  <b><p>Email <nerdmecha@zohomail.com></p></b>
   <b><p>Discord nerdmecha</p></b>
 </div>
