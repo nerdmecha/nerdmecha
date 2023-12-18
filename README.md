@@ -9,5 +9,5 @@
 
   <!-- Contact -->
   <b><p>Email <nerdmecha@zohomail.com></p></b>
-  <b><p>Discord nerdmecha</p></b>
+  <b><p>Discord nerdmecha#1806</p></b>
 </div>
