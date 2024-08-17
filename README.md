@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0000ff&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&desc=by%20nerdmecha&descAlign=74&descSize=20&fontSize=50&fontAlign=50&fontAlignY=45&descAlignY=55&animation=fadeIn)
-
 <h3 align="center">Profile Info</h3>
 <div align="center">
   <!-- Basic -->
